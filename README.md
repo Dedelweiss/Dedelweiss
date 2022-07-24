@@ -33,4 +33,4 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedelweiss" alt="dedelweiss" /></a> </p>
 
-<p align="center">![Snake animation](https://github.com/dedelweiss/dedelweiss/blob/output/github-contribution-grid-snake.svg)</p>
+![Snake animation](https://github.com/dedelweiss/dedelweiss/blob/output/github-contribution-grid-snake.svg)
