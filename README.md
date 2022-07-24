@@ -1,6 +1,6 @@
 <h1 align="center">Hi (ou Bonjour) 👋, I'm Leblanc Lucas</h1>
 <h3 align="center">A passionate full stack developer from La Rochelle (Specialized in front end)🎆</h3>
-
+[![Dedelweiss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dedelweiss)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dedelweiss&label=Profile%20views&color=0e75b6&style=flat" alt="dedelweiss" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedelweiss" alt="dedelweiss" /></a> </p>
