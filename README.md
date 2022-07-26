@@ -3,8 +3,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dedelweiss&label=Profile%20views&color=0e75b6&style=flat" alt="dedelweiss" /> </p>
 <div>
   <a href="https://github.com/dedelweiss">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=dedelweiss&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dedelweiss" />
-  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=dedelweiss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=dedelweiss&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dedelweiss" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=dedelweiss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 <h2>About me </h2>
 </br>
